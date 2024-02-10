@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Honza Štýbar</h1>
-<h3 align="center">A nerdy nanotechnology student with fondness for data processing and task automation</h3>
+<h3 align="center">I'm a science nerd with interest in physics, specializing in diffraction optics. Beyond the lab I enjoy programming process automation and data processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnycoder238&label=Profile%20views&color=0e75b6&style=flat" alt="johnycoder238" /> </p>
 
