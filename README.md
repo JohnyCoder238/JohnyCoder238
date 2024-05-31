@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnycoder238&label=Profile%20views&color=0e75b6&style=flat" alt="johnycoder238" /> </p>
 
-- 🔭 I’m currently working on **Agilent measurement automation**
+- 🔭 I’m currently working on **Situps counter Android app**
 
-- 🌱 I’m currently learning **sax basic, multiprocessing in python**
+- 🌱 I’m currently learning **Quantum algorithms**
 
-- 💬 Ask me about **python, machine learning and diffraction optics**
+- 💬 Ask me about **python, science and machine learning**
 
 - 📫 How to reach me **stybar.jan@seznam.cz**
 
